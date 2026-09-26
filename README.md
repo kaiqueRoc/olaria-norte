@@ -1,6 +1,6 @@
 # Olaria Norte — Cerâmica feita à mão
 
-Landing page conceitual para a **Olaria Norte**, um ateliê fictício de cerâmica artesanal em Belo Horizonte. Projeto desenvolvido como case de portfólio (design/direção de arte), simulando um site real de e-commerce + institucional para uma marca de cerâmica.
+Landing page conceitual para a **Olaria Norte**, um ateliê de cerâmica artesanal em Belo Horizonte. Projeto desenvolvido como case de portfólio (design/direção de arte), simulando um site real de e-commerce + institucional para uma marca de cerâmica.
 
 🔗 **Site publicado:** _adicione aqui o link do GitHub Pages depois de ativar_
 
